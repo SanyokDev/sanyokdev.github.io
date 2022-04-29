@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My First Blog!</title>
-    <link>https://sanyokdev.github.io/blog/</link>
+    <link>https://sanyokdev.github.io/</link>
     <description>Recent content on My First Blog!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sanyokdev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sanyokdev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A very cool title.</title>
-      <link>https://sanyokdev.github.io/blog/posts/2monthgame/firstpost/</link>
+      <link>https://sanyokdev.github.io/posts/2monthgame/firstpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanyokdev.github.io/blog/posts/2monthgame/firstpost/</guid>
+      <guid>https://sanyokdev.github.io/posts/2monthgame/firstpost/</guid>
       <description>A basic description. Or is it!</description>
     </item>
     
     <item>
       <title>idk title</title>
-      <link>https://sanyokdev.github.io/blog/posts/2monthgame/idk/</link>
+      <link>https://sanyokdev.github.io/posts/2monthgame/idk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanyokdev.github.io/blog/posts/2monthgame/idk/</guid>
+      <guid>https://sanyokdev.github.io/posts/2monthgame/idk/</guid>
       <description>A basic description. Or is it!</description>
     </item>
     
