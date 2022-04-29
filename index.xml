@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My First Blog!</title>
+    <title>Alessandro&#39;s Blog</title>
     <link>https://sanyokdev.github.io/</link>
-    <description>Recent content on My First Blog!</description>
+    <description>Recent content on Alessandro&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://sanyokdev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A very cool title.</title>
-      <link>https://sanyokdev.github.io/posts/2monthgame/firstpost/</link>
+      <link>https://sanyokdev.github.io/posts/first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanyokdev.github.io/posts/2monthgame/firstpost/</guid>
+      <guid>https://sanyokdev.github.io/posts/first-post/</guid>
       <description>A basic description. Or is it!</description>
     </item>
     
-    <item>
-      <title>idk title</title>
-      <link>https://sanyokdev.github.io/posts/2monthgame/idk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sanyokdev.github.io/posts/2monthgame/idk/</guid>
-      <description>A basic description. Or is it!</description>
-    </item>
     
   </channel>
 </rss>
