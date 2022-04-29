@@ -2,18 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanyokdev.github.io/posts/2monthgame/another-test/</loc>
+    <loc>https://sanyokdev.github.io/blog/posts/2monthgame/firstpost/</loc>
   </url><url>
-    <loc>https://sanyokdev.github.io/posts/2monthgame/firstpost/</loc>
+    <loc>https://sanyokdev.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://sanyokdev.github.io/posts/otherthings/firstpost/</loc>
+    <loc>https://sanyokdev.github.io/blog/categories/development/</loc>
   </url><url>
-    <loc>https://sanyokdev.github.io/categories/</loc>
+    <loc>https://sanyokdev.github.io/blog/posts/2monthgame/idk/</loc>
   </url><url>
-    <loc>https://sanyokdev.github.io/</loc>
+    <loc>https://sanyokdev.github.io/blog/</loc>
   </url><url>
-    <loc>https://sanyokdev.github.io/posts/</loc>
+    <loc>https://sanyokdev.github.io/blog/posts/</loc>
   </url><url>
-    <loc>https://sanyokdev.github.io/tags/</loc>
+    <loc>https://sanyokdev.github.io/blog/tags/</loc>
+  </url><url>
+    <loc>https://sanyokdev.github.io/blog/tags/tests/</loc>
   </url>
 </urlset>
