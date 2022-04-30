@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tests on Alessandro&#39;s Blog</title>
     <link>https://sanyokdev.github.io/tags/tests/</link>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sanyokdev.github.io/posts/first-post/</guid>
-      <description>A basic description. Or is it!</description>
+      <description>Wow a header! Test Here&amp;rsquo;s some content. Can I add images? </description>
     </item>
     
   </channel>
